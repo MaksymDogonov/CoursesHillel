@@ -1,5 +1,5 @@
-let number1 = +prompt('Add number 1');
-let number2 = +prompt('Add number 2');
+const number1 = +prompt('Add number 1');
+const number2 = +prompt('Add number 2');
 const addition = (a, b) => a + b;
 const subtraction = (a, b) => a - b;
 const multiplication = (a, b) => a * b;
