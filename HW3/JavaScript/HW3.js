@@ -10,6 +10,6 @@ let earth;
 let userName; // or name
 
 //Task #3
-let result = '10' + 10;
+const result = '10' + 10;
 console.log(typeof result);
 // при складанні строки та номеру буде строка, а при вичоті JS буде намагатися перевезти строку до номеру якщо це можливо.
