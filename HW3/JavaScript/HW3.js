@@ -1,13 +1,12 @@
 // Task #1
-let admin;
-let name;
-name = "Джон";
-admin = name;
+
+const name = "Джон";
+const admin = name;
 alert(admin);
 
 // Task #2
-let earth;
-let userName; // or name
+const ourPlaneName = 'earth';
+const nameCurrentVisitor = 'name';
 
 //Task #3
 const result = '10' + 10;
